@@ -40,8 +40,7 @@ build/
 .env
 .env.local
 
-# Model files (large binary files)
-models/*.onnx
+# Model files tracked by Git LFS
 models/*.pt
 models/*.pth
 models/*.bin
