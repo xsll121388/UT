@@ -30,6 +30,7 @@ git clone https://github.com/xsll121388/UT.git
 cd UT
 git lfs pull
 ```
+建议下载releases
 > **注意**：本项目使用 Git LFS 管理模型文件（约 400MB）。确保已安装 [Git LFS](https://git-lfs.com/)，否则模型文件可能无法正常下载。
 
 ### 2. 安装依赖
