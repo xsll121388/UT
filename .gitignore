@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude AI
+.claude/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environment
+.env
+.env.local
+
+# Model files (large binary files)
+models/*.onnx
+models/*.pt
+models/*.pth
+models/*.bin
+
+# Test / diagnostic scripts (optional - uncomment if you want to exclude)
+# test_*.py
+# diagnose_*.py
+# inspect_*.py
+# quick_*.py
+# analyze_*.py
+# compare_*.py
+
+# Logs
+*.log
