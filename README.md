@@ -24,8 +24,8 @@
 ## 安装
 
 ### 1. 克隆仓库
-
-```$env:GIT_LFS_SKIP_SMUDGE = "1"
+```
+$env:GIT_LFS_SKIP_SMUDGE = "1"
 git clone https://github.com/xsll121388/UT.git
 cd UT
 git lfs pull
